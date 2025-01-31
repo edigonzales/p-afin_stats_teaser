@@ -1,0 +1,953 @@
+jahr;bezirk;kanton;typ;anzahl
+1990;Bucheggberg;SO;Leichte Motorwagen;3143
+1991;Bucheggberg;SO;Leichte Motorwagen;3224
+1992;Bucheggberg;SO;Leichte Motorwagen;3156
+1993;Bucheggberg;SO;Leichte Motorwagen;3242
+1994;Bucheggberg;SO;Leichte Motorwagen;3365
+1995;Bucheggberg;SO;Leichte Motorwagen;3331
+1996;Bucheggberg;SO;Leichte Motorwagen;3384
+1997;Bucheggberg;SO;Leichte Motorwagen;3349
+1998;Bucheggberg;SO;Leichte Motorwagen;3292
+1999;Bucheggberg;SO;Leichte Motorwagen;3357
+2000;Bucheggberg;SO;Leichte Motorwagen;3430
+2001;Bucheggberg;SO;Leichte Motorwagen;3565
+2002;Bucheggberg;SO;Leichte Motorwagen;3710
+2003;Bucheggberg;SO;Leichte Motorwagen;3816
+2004;Bucheggberg;SO;Leichte Motorwagen;3880
+2005;Bucheggberg;SO;Leichte Motorwagen;4020
+2006;Bucheggberg;SO;Leichte Motorwagen;4096
+2007;Bucheggberg;SO;Leichte Motorwagen;4155
+2008;Bucheggberg;SO;Leichte Motorwagen;4210
+2009;Bucheggberg;SO;Leichte Motorwagen;4305
+2010;Bucheggberg;SO;Leichte Motorwagen;4375
+2011;Bucheggberg;SO;Leichte Motorwagen;4315
+2012;Bucheggberg;SO;Leichte Motorwagen;4250
+2013;Bucheggberg;SO;Leichte Motorwagen;4308
+2014;Bucheggberg;SO;Leichte Motorwagen;4410
+2015;Bucheggberg;SO;Leichte Motorwagen;4552
+2016;Bucheggberg;SO;Leichte Motorwagen;4629
+2017;Bucheggberg;SO;Leichte Motorwagen;4575
+2018;Bucheggberg;SO;Leichte Motorwagen;4639
+2019;Bucheggberg;SO;Leichte Motorwagen;4583
+2020;Bucheggberg;SO;Leichte Motorwagen;4627
+2021;Bucheggberg;SO;Leichte Motorwagen;4716
+2022;Bucheggberg;SO;Leichte Motorwagen;4866
+2023;Bucheggberg;SO;Leichte Motorwagen;4986
+1990;Bucheggberg;SO;Schwere Motorwagen;25
+1991;Bucheggberg;SO;Schwere Motorwagen;26
+1992;Bucheggberg;SO;Schwere Motorwagen;26
+1993;Bucheggberg;SO;Schwere Motorwagen;26
+1994;Bucheggberg;SO;Schwere Motorwagen;26
+1995;Bucheggberg;SO;Schwere Motorwagen;26
+1996;Bucheggberg;SO;Schwere Motorwagen;25
+1997;Bucheggberg;SO;Schwere Motorwagen;25
+1998;Bucheggberg;SO;Schwere Motorwagen;25
+1999;Bucheggberg;SO;Schwere Motorwagen;24
+2000;Bucheggberg;SO;Schwere Motorwagen;24
+2001;Bucheggberg;SO;Schwere Motorwagen;24
+2002;Bucheggberg;SO;Schwere Motorwagen;24
+2003;Bucheggberg;SO;Schwere Motorwagen;24
+2004;Bucheggberg;SO;Schwere Motorwagen;23
+2005;Bucheggberg;SO;Schwere Motorwagen;22
+2006;Bucheggberg;SO;Schwere Motorwagen;22
+2007;Bucheggberg;SO;Schwere Motorwagen;22
+2008;Bucheggberg;SO;Schwere Motorwagen;22
+2009;Bucheggberg;SO;Schwere Motorwagen;22
+2010;Bucheggberg;SO;Schwere Motorwagen;22
+2011;Bucheggberg;SO;Schwere Motorwagen;22
+2012;Bucheggberg;SO;Schwere Motorwagen;22
+2013;Bucheggberg;SO;Schwere Motorwagen;22
+2014;Bucheggberg;SO;Schwere Motorwagen;21
+2015;Bucheggberg;SO;Schwere Motorwagen;21
+2016;Bucheggberg;SO;Schwere Motorwagen;21
+2017;Bucheggberg;SO;Schwere Motorwagen;21
+2018;Bucheggberg;SO;Schwere Motorwagen;21
+2019;Bucheggberg;SO;Schwere Motorwagen;21
+2020;Bucheggberg;SO;Schwere Motorwagen;21
+2021;Bucheggberg;SO;Schwere Motorwagen;21
+2022;Bucheggberg;SO;Schwere Motorwagen;21
+2023;Bucheggberg;SO;Schwere Motorwagen;21
+1990;Bucheggberg;SO;Anhänger;418
+1991;Bucheggberg;SO;Anhänger;426
+1992;Bucheggberg;SO;Anhänger;442
+1993;Bucheggberg;SO;Anhänger;456
+1994;Bucheggberg;SO;Anhänger;471
+1995;Bucheggberg;SO;Anhänger;479
+1996;Bucheggberg;SO;Anhänger;489
+1997;Bucheggberg;SO;Anhänger;482
+1998;Bucheggberg;SO;Anhänger;501
+1999;Bucheggberg;SO;Anhänger;495
+2000;Bucheggberg;SO;Anhänger;503
+2001;Bucheggberg;SO;Anhänger;497
+2002;Bucheggberg;SO;Anhänger;491
+2003;Bucheggberg;SO;Anhänger;508
+2004;Bucheggberg;SO;Anhänger;521
+2005;Bucheggberg;SO;Anhänger;536
+2006;Bucheggberg;SO;Anhänger;551
+2007;Bucheggberg;SO;Anhänger;565
+2008;Bucheggberg;SO;Anhänger;573
+2009;Bucheggberg;SO;Anhänger;582
+2010;Bucheggberg;SO;Anhänger;596
+2011;Bucheggberg;SO;Anhänger;589
+2012;Bucheggberg;SO;Anhänger;582
+2013;Bucheggberg;SO;Anhänger;596
+2014;Bucheggberg;SO;Anhänger;614
+2015;Bucheggberg;SO;Anhänger;610
+2016;Bucheggberg;SO;Anhänger;624
+2017;Bucheggberg;SO;Anhänger;638
+2018;Bucheggberg;SO;Anhänger;633
+2019;Bucheggberg;SO;Anhänger;641
+2020;Bucheggberg;SO;Anhänger;654
+2021;Bucheggberg;SO;Anhänger;667
+2022;Bucheggberg;SO;Anhänger;659
+2023;Bucheggberg;SO;Anhänger;671
+1990;Bucheggberg;SO;Landw. FZ Ind. Trak.;351
+1991;Bucheggberg;SO;Landw. FZ Ind. Trak.;366
+1992;Bucheggberg;SO;Landw. FZ Ind. Trak.;374
+1993;Bucheggberg;SO;Landw. FZ Ind. Trak.;385
+1994;Bucheggberg;SO;Landw. FZ Ind. Trak.;397
+1995;Bucheggberg;SO;Landw. FZ Ind. Trak.;408
+1996;Bucheggberg;SO;Landw. FZ Ind. Trak.;425
+1997;Bucheggberg;SO;Landw. FZ Ind. Trak.;434
+1998;Bucheggberg;SO;Landw. FZ Ind. Trak.;438
+1999;Bucheggberg;SO;Landw. FZ Ind. Trak.;450
+2000;Bucheggberg;SO;Landw. FZ Ind. Trak.;460
+2001;Bucheggberg;SO;Landw. FZ Ind. Trak.;469
+2002;Bucheggberg;SO;Landw. FZ Ind. Trak.;481
+2003;Bucheggberg;SO;Landw. FZ Ind. Trak.;493
+2004;Bucheggberg;SO;Landw. FZ Ind. Trak.;501
+2005;Bucheggberg;SO;Landw. FZ Ind. Trak.;513
+2006;Bucheggberg;SO;Landw. FZ Ind. Trak.;526
+2007;Bucheggberg;SO;Landw. FZ Ind. Trak.;537
+2008;Bucheggberg;SO;Landw. FZ Ind. Trak.;545
+2009;Bucheggberg;SO;Landw. FZ Ind. Trak.;561
+2010;Bucheggberg;SO;Landw. FZ Ind. Trak.;572
+2011;Bucheggberg;SO;Landw. FZ Ind. Trak.;582
+2012;Bucheggberg;SO;Landw. FZ Ind. Trak.;588
+2013;Bucheggberg;SO;Landw. FZ Ind. Trak.;603
+2014;Bucheggberg;SO;Landw. FZ Ind. Trak.;618
+2015;Bucheggberg;SO;Landw. FZ Ind. Trak.;633
+2016;Bucheggberg;SO;Landw. FZ Ind. Trak.;639
+2017;Bucheggberg;SO;Landw. FZ Ind. Trak.;633
+2018;Bucheggberg;SO;Landw. FZ Ind. Trak.;641
+2019;Bucheggberg;SO;Landw. FZ Ind. Trak.;636
+2020;Bucheggberg;SO;Landw. FZ Ind. Trak.;648
+2021;Bucheggberg;SO;Landw. FZ Ind. Trak.;659
+2022;Bucheggberg;SO;Landw. FZ Ind. Trak.;670
+2023;Bucheggberg;SO;Landw. FZ Ind. Trak.;665
+1990;Bucheggberg;SO;Motorräder;468
+1991;Bucheggberg;SO;Motorräder;473
+1992;Bucheggberg;SO;Motorräder;480
+1993;Bucheggberg;SO;Motorräder;489
+1994;Bucheggberg;SO;Motorräder;510
+1995;Bucheggberg;SO;Motorräder;523
+1996;Bucheggberg;SO;Motorräder;531
+1997;Bucheggberg;SO;Motorräder;547
+1998;Bucheggberg;SO;Motorräder;555
+1999;Bucheggberg;SO;Motorräder;551
+2000;Bucheggberg;SO;Motorräder;546
+2001;Bucheggberg;SO;Motorräder;536
+2002;Bucheggberg;SO;Motorräder;552
+2003;Bucheggberg;SO;Motorräder;564
+2004;Bucheggberg;SO;Motorräder;553
+2005;Bucheggberg;SO;Motorräder;564
+2006;Bucheggberg;SO;Motorräder;573
+2007;Bucheggberg;SO;Motorräder;589
+2008;Bucheggberg;SO;Motorräder;599
+2009;Bucheggberg;SO;Motorräder;613
+2010;Bucheggberg;SO;Motorräder;629
+2011;Bucheggberg;SO;Motorräder;626
+2012;Bucheggberg;SO;Motorräder;643
+2013;Bucheggberg;SO;Motorräder;651
+2014;Bucheggberg;SO;Motorräder;659
+2015;Bucheggberg;SO;Motorräder;673
+2016;Bucheggberg;SO;Motorräder;686
+2017;Bucheggberg;SO;Motorräder;698
+2018;Bucheggberg;SO;Motorräder;710
+2019;Bucheggberg;SO;Motorräder;722
+2020;Bucheggberg;SO;Motorräder;737
+2021;Bucheggberg;SO;Motorräder;754
+2022;Bucheggberg;SO;Motorräder;767
+2023;Bucheggberg;SO;Motorräder;758
+1990;Bucheggberg;SO;Klein-Motorräder;12
+1991;Bucheggberg;SO;Klein-Motorräder;11
+1992;Bucheggberg;SO;Klein-Motorräder;11
+1993;Bucheggberg;SO;Klein-Motorräder;11
+1994;Bucheggberg;SO;Klein-Motorräder;11
+1995;Bucheggberg;SO;Klein-Motorräder;11
+1996;Bucheggberg;SO;Klein-Motorräder;11
+1997;Bucheggberg;SO;Klein-Motorräder;11
+1998;Bucheggberg;SO;Klein-Motorräder;11
+1999;Bucheggberg;SO;Klein-Motorräder;10
+2000;Bucheggberg;SO;Klein-Motorräder;10
+2001;Bucheggberg;SO;Klein-Motorräder;9
+2002;Bucheggberg;SO;Klein-Motorräder;9
+2003;Bucheggberg;SO;Klein-Motorräder;9
+2004;Bucheggberg;SO;Klein-Motorräder;9
+2005;Bucheggberg;SO;Klein-Motorräder;9
+2006;Bucheggberg;SO;Klein-Motorräder;9
+2007;Bucheggberg;SO;Klein-Motorräder;9
+2008;Bucheggberg;SO;Klein-Motorräder;9
+2009;Bucheggberg;SO;Klein-Motorräder;9
+2010;Bucheggberg;SO;Klein-Motorräder;9
+2011;Bucheggberg;SO;Klein-Motorräder;9
+2012;Bucheggberg;SO;Klein-Motorräder;9
+2013;Bucheggberg;SO;Klein-Motorräder;8
+2014;Bucheggberg;SO;Klein-Motorräder;8
+2015;Bucheggberg;SO;Klein-Motorräder;8
+2016;Bucheggberg;SO;Klein-Motorräder;8
+2017;Bucheggberg;SO;Klein-Motorräder;8
+2018;Bucheggberg;SO;Klein-Motorräder;8
+2019;Bucheggberg;SO;Klein-Motorräder;8
+2020;Bucheggberg;SO;Klein-Motorräder;8
+2021;Bucheggberg;SO;Klein-Motorräder;8
+2022;Bucheggberg;SO;Klein-Motorräder;8
+2023;Bucheggberg;SO;Klein-Motorräder;8
+1990;Bucheggberg;SO;Gewerbe FZ;63
+1991;Bucheggberg;SO;Gewerbe FZ;65
+1992;Bucheggberg;SO;Gewerbe FZ;66
+1993;Bucheggberg;SO;Gewerbe FZ;67
+1994;Bucheggberg;SO;Gewerbe FZ;69
+1995;Bucheggberg;SO;Gewerbe FZ;70
+1996;Bucheggberg;SO;Gewerbe FZ;71
+1997;Bucheggberg;SO;Gewerbe FZ;71
+1998;Bucheggberg;SO;Gewerbe FZ;69
+1999;Bucheggberg;SO;Gewerbe FZ;70
+2000;Bucheggberg;SO;Gewerbe FZ;71
+2001;Bucheggberg;SO;Gewerbe FZ;72
+2002;Bucheggberg;SO;Gewerbe FZ;73
+2003;Bucheggberg;SO;Gewerbe FZ;74
+2004;Bucheggberg;SO;Gewerbe FZ;75
+2005;Bucheggberg;SO;Gewerbe FZ;77
+2006;Bucheggberg;SO;Gewerbe FZ;79
+2007;Bucheggberg;SO;Gewerbe FZ;80
+2008;Bucheggberg;SO;Gewerbe FZ;82
+2009;Bucheggberg;SO;Gewerbe FZ;84
+2010;Bucheggberg;SO;Gewerbe FZ;82
+2011;Bucheggberg;SO;Gewerbe FZ;83
+2012;Bucheggberg;SO;Gewerbe FZ;84
+2013;Bucheggberg;SO;Gewerbe FZ;85
+2014;Bucheggberg;SO;Gewerbe FZ;87
+2015;Bucheggberg;SO;Gewerbe FZ;89
+2016;Bucheggberg;SO;Gewerbe FZ;91
+2017;Bucheggberg;SO;Gewerbe FZ;92
+2018;Bucheggberg;SO;Gewerbe FZ;91
+2019;Bucheggberg;SO;Gewerbe FZ;93
+2020;Bucheggberg;SO;Gewerbe FZ;96
+2021;Bucheggberg;SO;Gewerbe FZ;95
+2022;Bucheggberg;SO;Gewerbe FZ;97
+2023;Bucheggberg;SO;Gewerbe FZ;98
+1990;Dorneck;SO;Leichte Motorwagen;6726
+1991;Dorneck;SO;Leichte Motorwagen;6607
+1992;Dorneck;SO;Leichte Motorwagen;6731
+1993;Dorneck;SO;Leichte Motorwagen;6928
+1994;Dorneck;SO;Leichte Motorwagen;7080
+1995;Dorneck;SO;Leichte Motorwagen;7330
+1996;Dorneck;SO;Leichte Motorwagen;7584
+1997;Dorneck;SO;Leichte Motorwagen;7690
+1998;Dorneck;SO;Leichte Motorwagen;7566
+1999;Dorneck;SO;Leichte Motorwagen;7826
+2000;Dorneck;SO;Leichte Motorwagen;8144
+2001;Dorneck;SO;Leichte Motorwagen;8075
+2002;Dorneck;SO;Leichte Motorwagen;7965
+2003;Dorneck;SO;Leichte Motorwagen;8118
+2004;Dorneck;SO;Leichte Motorwagen;8483
+2005;Dorneck;SO;Leichte Motorwagen;8679
+2006;Dorneck;SO;Leichte Motorwagen;8797
+2007;Dorneck;SO;Leichte Motorwagen;9046
+2008;Dorneck;SO;Leichte Motorwagen;8987
+2009;Dorneck;SO;Leichte Motorwagen;8879
+2010;Dorneck;SO;Leichte Motorwagen;9112
+2011;Dorneck;SO;Leichte Motorwagen;9171
+2012;Dorneck;SO;Leichte Motorwagen;9313
+2013;Dorneck;SO;Leichte Motorwagen;9478
+2014;Dorneck;SO;Leichte Motorwagen;9634
+2015;Dorneck;SO;Leichte Motorwagen;9811
+2016;Dorneck;SO;Leichte Motorwagen;9958
+2017;Dorneck;SO;Leichte Motorwagen;10291
+2018;Dorneck;SO;Leichte Motorwagen;10476
+2019;Dorneck;SO;Leichte Motorwagen;10746
+2020;Dorneck;SO;Leichte Motorwagen;10958
+2021;Dorneck;SO;Leichte Motorwagen;11221
+2022;Dorneck;SO;Leichte Motorwagen;11432
+2023;Dorneck;SO;Leichte Motorwagen;11301
+1990;Dorneck;SO;Schwere Motorwagen;110
+1991;Dorneck;SO;Schwere Motorwagen;113
+1992;Dorneck;SO;Schwere Motorwagen;116
+1993;Dorneck;SO;Schwere Motorwagen;118
+1994;Dorneck;SO;Schwere Motorwagen;120
+1995;Dorneck;SO;Schwere Motorwagen;123
+1996;Dorneck;SO;Schwere Motorwagen;125
+1997;Dorneck;SO;Schwere Motorwagen;129
+1998;Dorneck;SO;Schwere Motorwagen;132
+1999;Dorneck;SO;Schwere Motorwagen;130
+2000;Dorneck;SO;Schwere Motorwagen;133
+2001;Dorneck;SO;Schwere Motorwagen;131
+2002;Dorneck;SO;Schwere Motorwagen;129
+2003;Dorneck;SO;Schwere Motorwagen;131
+2004;Dorneck;SO;Schwere Motorwagen;134
+2005;Dorneck;SO;Schwere Motorwagen;135
+2006;Dorneck;SO;Schwere Motorwagen;136
+2007;Dorneck;SO;Schwere Motorwagen;134
+2008;Dorneck;SO;Schwere Motorwagen;137
+2009;Dorneck;SO;Schwere Motorwagen;141
+2010;Dorneck;SO;Schwere Motorwagen;143
+2011;Dorneck;SO;Schwere Motorwagen;146
+2012;Dorneck;SO;Schwere Motorwagen;151
+2013;Dorneck;SO;Schwere Motorwagen;154
+2014;Dorneck;SO;Schwere Motorwagen;156
+2015;Dorneck;SO;Schwere Motorwagen;159
+2016;Dorneck;SO;Schwere Motorwagen;163
+2017;Dorneck;SO;Schwere Motorwagen;164
+2018;Dorneck;SO;Schwere Motorwagen;168
+2019;Dorneck;SO;Schwere Motorwagen;171
+2020;Dorneck;SO;Schwere Motorwagen;172
+2021;Dorneck;SO;Schwere Motorwagen;173
+2022;Dorneck;SO;Schwere Motorwagen;177
+2023;Dorneck;SO;Schwere Motorwagen;182
+1990;Dorneck;SO;Anhänger;666
+1991;Dorneck;SO;Anhänger;687
+1992;Dorneck;SO;Anhänger;701
+1993;Dorneck;SO;Anhänger;713
+1994;Dorneck;SO;Anhänger;744
+1995;Dorneck;SO;Anhänger;774
+1996;Dorneck;SO;Anhänger;792
+1997;Dorneck;SO;Anhänger;808
+1998;Dorneck;SO;Anhänger;828
+1999;Dorneck;SO;Anhänger;814
+2000;Dorneck;SO;Anhänger;832
+2001;Dorneck;SO;Anhänger;843
+2002;Dorneck;SO;Anhänger;834
+2003;Dorneck;SO;Anhänger;845
+2004;Dorneck;SO;Anhänger;862
+2005;Dorneck;SO;Anhänger;873
+2006;Dorneck;SO;Anhänger;889
+2007;Dorneck;SO;Anhänger;900
+2008;Dorneck;SO;Anhänger;888
+2009;Dorneck;SO;Anhänger;909
+2010;Dorneck;SO;Anhänger;930
+2011;Dorneck;SO;Anhänger;958
+2012;Dorneck;SO;Anhänger;950
+2013;Dorneck;SO;Anhänger;929
+2014;Dorneck;SO;Anhänger;946
+2015;Dorneck;SO;Anhänger;934
+2016;Dorneck;SO;Anhänger;950
+2017;Dorneck;SO;Anhänger;978
+2018;Dorneck;SO;Anhänger;1002
+2019;Dorneck;SO;Anhänger;1014
+2020;Dorneck;SO;Anhänger;1034
+2021;Dorneck;SO;Anhänger;1026
+2022;Dorneck;SO;Anhänger;1046
+2023;Dorneck;SO;Anhänger;1070
+1990;Dorneck;SO;Landw. FZ Ind. Trak.;379
+1991;Dorneck;SO;Landw. FZ Ind. Trak.;393
+1992;Dorneck;SO;Landw. FZ Ind. Trak.;408
+1993;Dorneck;SO;Landw. FZ Ind. Trak.;423
+1994;Dorneck;SO;Landw. FZ Ind. Trak.;431
+1995;Dorneck;SO;Landw. FZ Ind. Trak.;421
+1996;Dorneck;SO;Landw. FZ Ind. Trak.;434
+1997;Dorneck;SO;Landw. FZ Ind. Trak.;446
+1998;Dorneck;SO;Landw. FZ Ind. Trak.;459
+1999;Dorneck;SO;Landw. FZ Ind. Trak.;471
+2000;Dorneck;SO;Landw. FZ Ind. Trak.;484
+2001;Dorneck;SO;Landw. FZ Ind. Trak.;495
+2002;Dorneck;SO;Landw. FZ Ind. Trak.;489
+2003;Dorneck;SO;Landw. FZ Ind. Trak.;499
+2004;Dorneck;SO;Landw. FZ Ind. Trak.;508
+2005;Dorneck;SO;Landw. FZ Ind. Trak.;516
+2006;Dorneck;SO;Landw. FZ Ind. Trak.;525
+2007;Dorneck;SO;Landw. FZ Ind. Trak.;531
+2008;Dorneck;SO;Landw. FZ Ind. Trak.;547
+2009;Dorneck;SO;Landw. FZ Ind. Trak.;561
+2010;Dorneck;SO;Landw. FZ Ind. Trak.;578
+2011;Dorneck;SO;Landw. FZ Ind. Trak.;587
+2012;Dorneck;SO;Landw. FZ Ind. Trak.;601
+2013;Dorneck;SO;Landw. FZ Ind. Trak.;611
+2014;Dorneck;SO;Landw. FZ Ind. Trak.;626
+2015;Dorneck;SO;Landw. FZ Ind. Trak.;637
+2016;Dorneck;SO;Landw. FZ Ind. Trak.;649
+2017;Dorneck;SO;Landw. FZ Ind. Trak.;655
+2018;Dorneck;SO;Landw. FZ Ind. Trak.;669
+2019;Dorneck;SO;Landw. FZ Ind. Trak.;686
+2020;Dorneck;SO;Landw. FZ Ind. Trak.;703
+2021;Dorneck;SO;Landw. FZ Ind. Trak.;694
+2022;Dorneck;SO;Landw. FZ Ind. Trak.;709
+2023;Dorneck;SO;Landw. FZ Ind. Trak.;715
+1990;Dorneck;SO;Motorräder;1072
+1991;Dorneck;SO;Motorräder;1111
+1992;Dorneck;SO;Motorräder;1143
+1993;Dorneck;SO;Motorräder;1166
+1994;Dorneck;SO;Motorräder;1201
+1995;Dorneck;SO;Motorräder;1239
+1996;Dorneck;SO;Motorräder;1257
+1997;Dorneck;SO;Motorräder;1286
+1998;Dorneck;SO;Motorräder;1266
+1999;Dorneck;SO;Motorräder;1258
+2000;Dorneck;SO;Motorräder;1288
+2001;Dorneck;SO;Motorräder;1316
+2002;Dorneck;SO;Motorräder;1335
+2003;Dorneck;SO;Motorräder;1311
+2004;Dorneck;SO;Motorräder;1340
+2005;Dorneck;SO;Motorräder;1356
+2006;Dorneck;SO;Motorräder;1390
+2007;Dorneck;SO;Motorräder;1377
+2008;Dorneck;SO;Motorräder;1392
+2009;Dorneck;SO;Motorräder;1428
+2010;Dorneck;SO;Motorräder;1417
+2011;Dorneck;SO;Motorräder;1446
+2012;Dorneck;SO;Motorräder;1502
+2013;Dorneck;SO;Motorräder;1527
+2014;Dorneck;SO;Motorräder;1566
+2015;Dorneck;SO;Motorräder;1587
+2016;Dorneck;SO;Motorräder;1618
+2017;Dorneck;SO;Motorräder;1650
+2018;Dorneck;SO;Motorräder;1687
+2019;Dorneck;SO;Motorräder;1728
+2020;Dorneck;SO;Motorräder;1765
+2021;Dorneck;SO;Motorräder;1775
+2022;Dorneck;SO;Motorräder;1822
+2023;Dorneck;SO;Motorräder;1850
+1990;Dorneck;SO;Klein-Motorräder;26
+1991;Dorneck;SO;Klein-Motorräder;27
+1992;Dorneck;SO;Klein-Motorräder;28
+1993;Dorneck;SO;Klein-Motorräder;27
+1994;Dorneck;SO;Klein-Motorräder;28
+1995;Dorneck;SO;Klein-Motorräder;28
+1996;Dorneck;SO;Klein-Motorräder;28
+1997;Dorneck;SO;Klein-Motorräder;28
+1998;Dorneck;SO;Klein-Motorräder;27
+1999;Dorneck;SO;Klein-Motorräder;27
+2000;Dorneck;SO;Klein-Motorräder;28
+2001;Dorneck;SO;Klein-Motorräder;28
+2002;Dorneck;SO;Klein-Motorräder;28
+2003;Dorneck;SO;Klein-Motorräder;28
+2004;Dorneck;SO;Klein-Motorräder;28
+2005;Dorneck;SO;Klein-Motorräder;28
+2006;Dorneck;SO;Klein-Motorräder;28
+2007;Dorneck;SO;Klein-Motorräder;27
+2008;Dorneck;SO;Klein-Motorräder;27
+2009;Dorneck;SO;Klein-Motorräder;27
+2010;Dorneck;SO;Klein-Motorräder;27
+2011;Dorneck;SO;Klein-Motorräder;27
+2012;Dorneck;SO;Klein-Motorräder;27
+2013;Dorneck;SO;Klein-Motorräder;27
+2014;Dorneck;SO;Klein-Motorräder;27
+2015;Dorneck;SO;Klein-Motorräder;27
+2016;Dorneck;SO;Klein-Motorräder;28
+2017;Dorneck;SO;Klein-Motorräder;28
+2018;Dorneck;SO;Klein-Motorräder;27
+2019;Dorneck;SO;Klein-Motorräder;27
+2020;Dorneck;SO;Klein-Motorräder;26
+2021;Dorneck;SO;Klein-Motorräder;26
+2022;Dorneck;SO;Klein-Motorräder;26
+2023;Dorneck;SO;Klein-Motorräder;26
+1990;Dorneck;SO;Gewerbe FZ;63
+1991;Dorneck;SO;Gewerbe FZ;65
+1992;Dorneck;SO;Gewerbe FZ;66
+1993;Dorneck;SO;Gewerbe FZ;67
+1994;Dorneck;SO;Gewerbe FZ;68
+1995;Dorneck;SO;Gewerbe FZ;70
+1996;Dorneck;SO;Gewerbe FZ;72
+1997;Dorneck;SO;Gewerbe FZ;72
+1998;Dorneck;SO;Gewerbe FZ;74
+1999;Dorneck;SO;Gewerbe FZ;72
+2000;Dorneck;SO;Gewerbe FZ;70
+2001;Dorneck;SO;Gewerbe FZ;72
+2002;Dorneck;SO;Gewerbe FZ;74
+2003;Dorneck;SO;Gewerbe FZ;76
+2004;Dorneck;SO;Gewerbe FZ;78
+2005;Dorneck;SO;Gewerbe FZ;77
+2006;Dorneck;SO;Gewerbe FZ;78
+2007;Dorneck;SO;Gewerbe FZ;76
+2008;Dorneck;SO;Gewerbe FZ;77
+2009;Dorneck;SO;Gewerbe FZ;76
+2010;Dorneck;SO;Gewerbe FZ;77
+2011;Dorneck;SO;Gewerbe FZ;79
+2012;Dorneck;SO;Gewerbe FZ;80
+2013;Dorneck;SO;Gewerbe FZ;82
+2014;Dorneck;SO;Gewerbe FZ;84
+2015;Dorneck;SO;Gewerbe FZ;86
+2016;Dorneck;SO;Gewerbe FZ;87
+2017;Dorneck;SO;Gewerbe FZ;85
+2018;Dorneck;SO;Gewerbe FZ;86
+2019;Dorneck;SO;Gewerbe FZ;88
+2020;Dorneck;SO;Gewerbe FZ;89
+2021;Dorneck;SO;Gewerbe FZ;91
+2022;Dorneck;SO;Gewerbe FZ;93
+2023;Dorneck;SO;Gewerbe FZ;92
+1990;Gäu;SO;Leichte Motorwagen;8723
+1991;Gäu;SO;Leichte Motorwagen;9014
+1992;Gäu;SO;Leichte Motorwagen;8885
+1993;Gäu;SO;Leichte Motorwagen;9193
+1994;Gäu;SO;Leichte Motorwagen;9082
+1995;Gäu;SO;Leichte Motorwagen;9315
+1996;Gäu;SO;Leichte Motorwagen;9596
+1997;Gäu;SO;Leichte Motorwagen;9900
+1998;Gäu;SO;Leichte Motorwagen;9690
+1999;Gäu;SO;Leichte Motorwagen;9905
+2000;Gäu;SO;Leichte Motorwagen;10145
+2001;Gäu;SO;Leichte Motorwagen;10384
+2002;Gäu;SO;Leichte Motorwagen;10649
+2003;Gäu;SO;Leichte Motorwagen;10965
+2004;Gäu;SO;Leichte Motorwagen;11112
+2005;Gäu;SO;Leichte Motorwagen;11433
+2006;Gäu;SO;Leichte Motorwagen;11663
+2007;Gäu;SO;Leichte Motorwagen;11860
+2008;Gäu;SO;Leichte Motorwagen;12229
+2009;Gäu;SO;Leichte Motorwagen;12017
+2010;Gäu;SO;Leichte Motorwagen;11908
+2011;Gäu;SO;Leichte Motorwagen;12187
+2012;Gäu;SO;Leichte Motorwagen;12398
+2013;Gäu;SO;Leichte Motorwagen;12614
+2014;Gäu;SO;Leichte Motorwagen;12502
+2015;Gäu;SO;Leichte Motorwagen;12683
+2016;Gäu;SO;Leichte Motorwagen;12993
+2017;Gäu;SO;Leichte Motorwagen;13235
+2018;Gäu;SO;Leichte Motorwagen;13445
+2019;Gäu;SO;Leichte Motorwagen;13730
+2020;Gäu;SO;Leichte Motorwagen;13630
+2021;Gäu;SO;Leichte Motorwagen;13852
+2022;Gäu;SO;Leichte Motorwagen;14161
+2023;Gäu;SO;Leichte Motorwagen;14453
+1990;Gäu;SO;Schwere Motorwagen;444
+1991;Gäu;SO;Schwere Motorwagen;435
+1992;Gäu;SO;Schwere Motorwagen;429
+1993;Gäu;SO;Schwere Motorwagen;443
+1994;Gäu;SO;Schwere Motorwagen;457
+1995;Gäu;SO;Schwere Motorwagen;467
+1996;Gäu;SO;Schwere Motorwagen;481
+1997;Gäu;SO;Schwere Motorwagen;496
+1998;Gäu;SO;Schwere Motorwagen;507
+1999;Gäu;SO;Schwere Motorwagen;527
+2000;Gäu;SO;Schwere Motorwagen;522
+2001;Gäu;SO;Schwere Motorwagen;517
+2002;Gäu;SO;Schwere Motorwagen;530
+2003;Gäu;SO;Schwere Motorwagen;540
+2004;Gäu;SO;Schwere Motorwagen;552
+2005;Gäu;SO;Schwere Motorwagen;564
+2006;Gäu;SO;Schwere Motorwagen;581
+2007;Gäu;SO;Schwere Motorwagen;587
+2008;Gäu;SO;Schwere Motorwagen;605
+2009;Gäu;SO;Schwere Motorwagen;614
+2010;Gäu;SO;Schwere Motorwagen;624
+2011;Gäu;SO;Schwere Motorwagen;634
+2012;Gäu;SO;Schwere Motorwagen;642
+2013;Gäu;SO;Schwere Motorwagen;653
+2014;Gäu;SO;Schwere Motorwagen;669
+2015;Gäu;SO;Schwere Motorwagen;678
+2016;Gäu;SO;Schwere Motorwagen;694
+2017;Gäu;SO;Schwere Motorwagen;704
+2018;Gäu;SO;Schwere Motorwagen;707
+2019;Gäu;SO;Schwere Motorwagen;717
+2020;Gäu;SO;Schwere Motorwagen;723
+2021;Gäu;SO;Schwere Motorwagen;727
+2022;Gäu;SO;Schwere Motorwagen;724
+2023;Gäu;SO;Schwere Motorwagen;733
+1990;Gäu;SO;Anhänger;1081
+1991;Gäu;SO;Anhänger;1066
+1992;Gäu;SO;Anhänger;1098
+1993;Gäu;SO;Anhänger;1125
+1994;Gäu;SO;Anhänger;1178
+1995;Gäu;SO;Anhänger;1207
+1996;Gäu;SO;Anhänger;1244
+1997;Gäu;SO;Anhänger;1234
+1998;Gäu;SO;Anhänger;1266
+1999;Gäu;SO;Anhänger;1301
+2000;Gäu;SO;Anhänger;1326
+2001;Gäu;SO;Anhänger;1360
+2002;Gäu;SO;Anhänger;1378
+2003;Gäu;SO;Anhänger;1396
+2004;Gäu;SO;Anhänger;1416
+2005;Gäu;SO;Anhänger;1430
+2006;Gäu;SO;Anhänger;1453
+2007;Gäu;SO;Anhänger;1431
+2008;Gäu;SO;Anhänger;1453
+2009;Gäu;SO;Anhänger;1449
+2010;Gäu;SO;Anhänger;1489
+2011;Gäu;SO;Anhänger;1519
+2012;Gäu;SO;Anhänger;1549
+2013;Gäu;SO;Anhänger;1586
+2014;Gäu;SO;Anhänger;1580
+2015;Gäu;SO;Anhänger;1608
+2016;Gäu;SO;Anhänger;1628
+2017;Gäu;SO;Anhänger;1667
+2018;Gäu;SO;Anhänger;1704
+2019;Gäu;SO;Anhänger;1715
+2020;Gäu;SO;Anhänger;1699
+2021;Gäu;SO;Anhänger;1732
+2022;Gäu;SO;Anhänger;1756
+2023;Gäu;SO;Anhänger;1771
+1990;Gäu;SO;Landw. FZ Ind. Trak.;239
+1991;Gäu;SO;Landw. FZ Ind. Trak.;240
+1992;Gäu;SO;Landw. FZ Ind. Trak.;235
+1993;Gäu;SO;Landw. FZ Ind. Trak.;240
+1994;Gäu;SO;Landw. FZ Ind. Trak.;235
+1995;Gäu;SO;Landw. FZ Ind. Trak.;229
+1996;Gäu;SO;Landw. FZ Ind. Trak.;235
+1997;Gäu;SO;Landw. FZ Ind. Trak.;244
+1998;Gäu;SO;Landw. FZ Ind. Trak.;251
+1999;Gäu;SO;Landw. FZ Ind. Trak.;258
+2000;Gäu;SO;Landw. FZ Ind. Trak.;254
+2001;Gäu;SO;Landw. FZ Ind. Trak.;251
+2002;Gäu;SO;Landw. FZ Ind. Trak.;258
+2003;Gäu;SO;Landw. FZ Ind. Trak.;264
+2004;Gäu;SO;Landw. FZ Ind. Trak.;261
+2005;Gäu;SO;Landw. FZ Ind. Trak.;266
+2006;Gäu;SO;Landw. FZ Ind. Trak.;268
+2007;Gäu;SO;Landw. FZ Ind. Trak.;277
+2008;Gäu;SO;Landw. FZ Ind. Trak.;286
+2009;Gäu;SO;Landw. FZ Ind. Trak.;290
+2010;Gäu;SO;Landw. FZ Ind. Trak.;296
+2011;Gäu;SO;Landw. FZ Ind. Trak.;302
+2012;Gäu;SO;Landw. FZ Ind. Trak.;304
+2013;Gäu;SO;Landw. FZ Ind. Trak.;315
+2014;Gäu;SO;Landw. FZ Ind. Trak.;327
+2015;Gäu;SO;Landw. FZ Ind. Trak.;336
+2016;Gäu;SO;Landw. FZ Ind. Trak.;345
+2017;Gäu;SO;Landw. FZ Ind. Trak.;353
+2018;Gäu;SO;Landw. FZ Ind. Trak.;359
+2019;Gäu;SO;Landw. FZ Ind. Trak.;362
+2020;Gäu;SO;Landw. FZ Ind. Trak.;370
+2021;Gäu;SO;Landw. FZ Ind. Trak.;374
+2022;Gäu;SO;Landw. FZ Ind. Trak.;380
+2023;Gäu;SO;Landw. FZ Ind. Trak.;385
+1990;Gäu;SO;Motorräder;793
+1991;Gäu;SO;Motorräder;782
+1992;Gäu;SO;Motorräder;798
+1993;Gäu;SO;Motorräder;788
+1994;Gäu;SO;Motorräder;818
+1995;Gäu;SO;Motorräder;844
+1996;Gäu;SO;Motorräder;829
+1997;Gäu;SO;Motorräder;819
+1998;Gäu;SO;Motorräder;835
+1999;Gäu;SO;Motorräder;853
+2000;Gäu;SO;Motorräder;880
+2001;Gäu;SO;Motorräder;899
+2002;Gäu;SO;Motorräder;920
+2003;Gäu;SO;Motorräder;904
+2004;Gäu;SO;Motorräder;890
+2005;Gäu;SO;Motorräder;882
+2006;Gäu;SO;Motorräder;908
+2007;Gäu;SO;Motorräder;933
+2008;Gäu;SO;Motorräder;955
+2009;Gäu;SO;Motorräder;967
+2010;Gäu;SO;Motorräder;987
+2011;Gäu;SO;Motorräder;1007
+2012;Gäu;SO;Motorräder;1034
+2013;Gäu;SO;Motorräder;1055
+2014;Gäu;SO;Motorräder;1037
+2015;Gäu;SO;Motorräder;1061
+2016;Gäu;SO;Motorräder;1088
+2017;Gäu;SO;Motorräder;1107
+2018;Gäu;SO;Motorräder;1125
+2019;Gäu;SO;Motorräder;1150
+2020;Gäu;SO;Motorräder;1135
+2021;Gäu;SO;Motorräder;1128
+2022;Gäu;SO;Motorräder;1149
+2023;Gäu;SO;Motorräder;1169
+1990;Gäu;SO;Klein-Motorräder;137
+1991;Gäu;SO;Klein-Motorräder;143
+1992;Gäu;SO;Klein-Motorräder;141
+1993;Gäu;SO;Klein-Motorräder;144
+1994;Gäu;SO;Klein-Motorräder;148
+1995;Gäu;SO;Klein-Motorräder;152
+1996;Gäu;SO;Klein-Motorräder;156
+1997;Gäu;SO;Klein-Motorräder;159
+1998;Gäu;SO;Klein-Motorräder;163
+1999;Gäu;SO;Klein-Motorräder;167
+2000;Gäu;SO;Klein-Motorräder;172
+2001;Gäu;SO;Klein-Motorräder;177
+2002;Gäu;SO;Klein-Motorräder;182
+2003;Gäu;SO;Klein-Motorräder;188
+2004;Gäu;SO;Klein-Motorräder;192
+2005;Gäu;SO;Klein-Motorräder;195
+2006;Gäu;SO;Klein-Motorräder;192
+2007;Gäu;SO;Klein-Motorräder;194
+2008;Gäu;SO;Klein-Motorräder;200
+2009;Gäu;SO;Klein-Motorräder;204
+2010;Gäu;SO;Klein-Motorräder;208
+2011;Gäu;SO;Klein-Motorräder;210
+2012;Gäu;SO;Klein-Motorräder;206
+2013;Gäu;SO;Klein-Motorräder;210
+2014;Gäu;SO;Klein-Motorräder;215
+2015;Gäu;SO;Klein-Motorräder;220
+2016;Gäu;SO;Klein-Motorräder;223
+2017;Gäu;SO;Klein-Motorräder;226
+2018;Gäu;SO;Klein-Motorräder;223
+2019;Gäu;SO;Klein-Motorräder;220
+2020;Gäu;SO;Klein-Motorräder;224
+2021;Gäu;SO;Klein-Motorräder;229
+2022;Gäu;SO;Klein-Motorräder;233
+2023;Gäu;SO;Klein-Motorräder;234
+1990;Gäu;SO;Gewerbe FZ;182
+1991;Gäu;SO;Gewerbe FZ;190
+1992;Gäu;SO;Gewerbe FZ;196
+1993;Gäu;SO;Gewerbe FZ;203
+1994;Gäu;SO;Gewerbe FZ;208
+1995;Gäu;SO;Gewerbe FZ;213
+1996;Gäu;SO;Gewerbe FZ;209
+1997;Gäu;SO;Gewerbe FZ;214
+1998;Gäu;SO;Gewerbe FZ;211
+1999;Gäu;SO;Gewerbe FZ;215
+2000;Gäu;SO;Gewerbe FZ;222
+2001;Gäu;SO;Gewerbe FZ;228
+2002;Gäu;SO;Gewerbe FZ;225
+2003;Gäu;SO;Gewerbe FZ;222
+2004;Gäu;SO;Gewerbe FZ;230
+2005;Gäu;SO;Gewerbe FZ;239
+2006;Gäu;SO;Gewerbe FZ;241
+2007;Gäu;SO;Gewerbe FZ;247
+2008;Gäu;SO;Gewerbe FZ;254
+2009;Gäu;SO;Gewerbe FZ;259
+2010;Gäu;SO;Gewerbe FZ;257
+2011;Gäu;SO;Gewerbe FZ;262
+2012;Gäu;SO;Gewerbe FZ;269
+2013;Gäu;SO;Gewerbe FZ;273
+2014;Gäu;SO;Gewerbe FZ;272
+2015;Gäu;SO;Gewerbe FZ;277
+2016;Gäu;SO;Gewerbe FZ;280
+2017;Gäu;SO;Gewerbe FZ;285
+2018;Gäu;SO;Gewerbe FZ;286
+2019;Gäu;SO;Gewerbe FZ;291
+2020;Gäu;SO;Gewerbe FZ;297
+2021;Gäu;SO;Gewerbe FZ;299
+2022;Gäu;SO;Gewerbe FZ;307
+2023;Gäu;SO;Gewerbe FZ;310
+1990;Gösgen;SO;Leichte Motorwagen;7753
+1991;Gösgen;SO;Leichte Motorwagen;7848
+1992;Gösgen;SO;Leichte Motorwagen;8102
+1993;Gösgen;SO;Leichte Motorwagen;8329
+1994;Gösgen;SO;Leichte Motorwagen;8502
+1995;Gösgen;SO;Leichte Motorwagen;8782
+1996;Gösgen;SO;Leichte Motorwagen;9140
+1997;Gösgen;SO;Leichte Motorwagen;9341
+1998;Gösgen;SO;Leichte Motorwagen;9454
+1999;Gösgen;SO;Leichte Motorwagen;9697
+2000;Gösgen;SO;Leichte Motorwagen;9854
+2001;Gösgen;SO;Leichte Motorwagen;10040
+2002;Gösgen;SO;Leichte Motorwagen;10240
+2003;Gösgen;SO;Leichte Motorwagen;10525
+2004;Gösgen;SO;Leichte Motorwagen;10672
+2005;Gösgen;SO;Leichte Motorwagen;10855
+2006;Gösgen;SO;Leichte Motorwagen;11143
+2007;Gösgen;SO;Leichte Motorwagen;11361
+2008;Gösgen;SO;Leichte Motorwagen;11587
+2009;Gösgen;SO;Leichte Motorwagen;11760
+2010;Gösgen;SO;Leichte Motorwagen;12026
+2011;Gösgen;SO;Leichte Motorwagen;12303
+2012;Gösgen;SO;Leichte Motorwagen;12512
+2013;Gösgen;SO;Leichte Motorwagen;12722
+2014;Gösgen;SO;Leichte Motorwagen;13022
+2015;Gösgen;SO;Leichte Motorwagen;13120
+2016;Gösgen;SO;Leichte Motorwagen;13245
+2017;Gösgen;SO;Leichte Motorwagen;13370
+2018;Gösgen;SO;Leichte Motorwagen;13594
+2019;Gösgen;SO;Leichte Motorwagen;13883
+2020;Gösgen;SO;Leichte Motorwagen;14094
+2021;Gösgen;SO;Leichte Motorwagen;14387
+2022;Gösgen;SO;Leichte Motorwagen;14545
+2023;Gösgen;SO;Leichte Motorwagen;14595
+1990;Gösgen;SO;Schwere Motorwagen;73
+1991;Gösgen;SO;Schwere Motorwagen;76
+1992;Gösgen;SO;Schwere Motorwagen;77
+1993;Gösgen;SO;Schwere Motorwagen;79
+1994;Gösgen;SO;Schwere Motorwagen;81
+1995;Gösgen;SO;Schwere Motorwagen;82
+1996;Gösgen;SO;Schwere Motorwagen;85
+1997;Gösgen;SO;Schwere Motorwagen;83
+1998;Gösgen;SO;Schwere Motorwagen;85
+1999;Gösgen;SO;Schwere Motorwagen;86
+2000;Gösgen;SO;Schwere Motorwagen;84
+2001;Gösgen;SO;Schwere Motorwagen;86
+2002;Gösgen;SO;Schwere Motorwagen;87
+2003;Gösgen;SO;Schwere Motorwagen;89
+2004;Gösgen;SO;Schwere Motorwagen;91
+2005;Gösgen;SO;Schwere Motorwagen;92
+2006;Gösgen;SO;Schwere Motorwagen;95
+2007;Gösgen;SO;Schwere Motorwagen;96
+2008;Gösgen;SO;Schwere Motorwagen;97
+2009;Gösgen;SO;Schwere Motorwagen;99
+2010;Gösgen;SO;Schwere Motorwagen;100
+2011;Gösgen;SO;Schwere Motorwagen;101
+2012;Gösgen;SO;Schwere Motorwagen;99
+2013;Gösgen;SO;Schwere Motorwagen;101
+2014;Gösgen;SO;Schwere Motorwagen;103
+2015;Gösgen;SO;Schwere Motorwagen;105
+2016;Gösgen;SO;Schwere Motorwagen;106
+2017;Gösgen;SO;Schwere Motorwagen;107
+2018;Gösgen;SO;Schwere Motorwagen;107
+2019;Gösgen;SO;Schwere Motorwagen;109
+2020;Gösgen;SO;Schwere Motorwagen;108
+2021;Gösgen;SO;Schwere Motorwagen;109
+2022;Gösgen;SO;Schwere Motorwagen;107
+2023;Gösgen;SO;Schwere Motorwagen;108
+1990;Gösgen;SO;Anhänger;653
+1991;Gösgen;SO;Anhänger;669
+1992;Gösgen;SO;Anhänger;657
+1993;Gösgen;SO;Anhänger;675
+1994;Gösgen;SO;Anhänger;703
+1995;Gösgen;SO;Anhänger;713
+1996;Gösgen;SO;Anhänger;698
+1997;Gösgen;SO;Anhänger;682
+1998;Gösgen;SO;Anhänger;696
+1999;Gösgen;SO;Anhänger;701
+2000;Gösgen;SO;Anhänger;694
+2001;Gösgen;SO;Anhänger;714
+2002;Gösgen;SO;Anhänger;744
+2003;Gösgen;SO;Anhänger;764
+2004;Gösgen;SO;Anhänger;791
+2005;Gösgen;SO;Anhänger;809
+2006;Gösgen;SO;Anhänger;794
+2007;Gösgen;SO;Anhänger;821
+2008;Gösgen;SO;Anhänger;816
+2009;Gösgen;SO;Anhänger;839
+2010;Gösgen;SO;Anhänger;853
+2011;Gösgen;SO;Anhänger;866
+2012;Gösgen;SO;Anhänger;854
+2013;Gösgen;SO;Anhänger;842
+2014;Gösgen;SO;Anhänger;874
+2015;Gösgen;SO;Anhänger;892
+2016;Gösgen;SO;Anhänger;912
+2017;Gösgen;SO;Anhänger;946
+2018;Gösgen;SO;Anhänger;933
+2019;Gösgen;SO;Anhänger;945
+2020;Gösgen;SO;Anhänger;966
+2021;Gösgen;SO;Anhänger;990
+2022;Gösgen;SO;Anhänger;998
+2023;Gösgen;SO;Anhänger;1014
+1990;Gösgen;SO;Landw. FZ Ind. Trak.;271
+1991;Gösgen;SO;Landw. FZ Ind. Trak.;281
+1992;Gösgen;SO;Landw. FZ Ind. Trak.;285
+1993;Gösgen;SO;Landw. FZ Ind. Trak.;287
+1994;Gösgen;SO;Landw. FZ Ind. Trak.;295
+1995;Gösgen;SO;Landw. FZ Ind. Trak.;300
+1996;Gösgen;SO;Landw. FZ Ind. Trak.;310
+1997;Gösgen;SO;Landw. FZ Ind. Trak.;317
+1998;Gösgen;SO;Landw. FZ Ind. Trak.;318
+1999;Gösgen;SO;Landw. FZ Ind. Trak.;325
+2000;Gösgen;SO;Landw. FZ Ind. Trak.;321
+2001;Gösgen;SO;Landw. FZ Ind. Trak.;328
+2002;Gösgen;SO;Landw. FZ Ind. Trak.;336
+2003;Gösgen;SO;Landw. FZ Ind. Trak.;347
+2004;Gösgen;SO;Landw. FZ Ind. Trak.;356
+2005;Gösgen;SO;Landw. FZ Ind. Trak.;364
+2006;Gösgen;SO;Landw. FZ Ind. Trak.;372
+2007;Gösgen;SO;Landw. FZ Ind. Trak.;382
+2008;Gösgen;SO;Landw. FZ Ind. Trak.;389
+2009;Gösgen;SO;Landw. FZ Ind. Trak.;396
+2010;Gösgen;SO;Landw. FZ Ind. Trak.;399
+2011;Gösgen;SO;Landw. FZ Ind. Trak.;400
+2012;Gösgen;SO;Landw. FZ Ind. Trak.;395
+2013;Gösgen;SO;Landw. FZ Ind. Trak.;397
+2014;Gösgen;SO;Landw. FZ Ind. Trak.;408
+2015;Gösgen;SO;Landw. FZ Ind. Trak.;414
+2016;Gösgen;SO;Landw. FZ Ind. Trak.;421
+2017;Gösgen;SO;Landw. FZ Ind. Trak.;427
+2018;Gösgen;SO;Landw. FZ Ind. Trak.;431
+2019;Gösgen;SO;Landw. FZ Ind. Trak.;428
+2020;Gösgen;SO;Landw. FZ Ind. Trak.;435
+2021;Gösgen;SO;Landw. FZ Ind. Trak.;444
+2022;Gösgen;SO;Landw. FZ Ind. Trak.;449
+2023;Gösgen;SO;Landw. FZ Ind. Trak.;458
+1990;Gösgen;SO;Motorräder;1112
+1991;Gösgen;SO;Motorräder;1139
+1992;Gösgen;SO;Motorräder;1123
+1993;Gösgen;SO;Motorräder;1165
+1994;Gösgen;SO;Motorräder;1200
+1995;Gösgen;SO;Motorräder;1238
+1996;Gösgen;SO;Motorräder;1282
+1997;Gösgen;SO;Motorräder;1304
+1998;Gösgen;SO;Motorräder;1294
+1999;Gösgen;SO;Motorräder;1336
+2000;Gösgen;SO;Motorräder;1389
+2001;Gösgen;SO;Motorräder;1427
+2002;Gösgen;SO;Motorräder;1435
+2003;Gösgen;SO;Motorräder;1470
+2004;Gösgen;SO;Motorräder;1447
+2005;Gösgen;SO;Motorräder;1482
+2006;Gösgen;SO;Motorräder;1516
+2007;Gösgen;SO;Motorräder;1498
+2008;Gösgen;SO;Motorräder;1540
+2009;Gösgen;SO;Motorräder;1557
+2010;Gösgen;SO;Motorräder;1607
+2011;Gösgen;SO;Motorräder;1587
+2012;Gösgen;SO;Motorräder;1624
+2013;Gösgen;SO;Motorräder;1606
+2014;Gösgen;SO;Motorräder;1628
+2015;Gösgen;SO;Motorräder;1651
+2016;Gösgen;SO;Motorräder;1677
+2017;Gösgen;SO;Motorräder;1709
+2018;Gösgen;SO;Motorräder;1742
+2019;Gösgen;SO;Motorräder;1778
+2020;Gösgen;SO;Motorräder;1794
+2021;Gösgen;SO;Motorräder;1806
+2022;Gösgen;SO;Motorräder;1789
+2023;Gösgen;SO;Motorräder;1770
+1990;Gösgen;SO;Klein-Motorräder;43
+1991;Gösgen;SO;Klein-Motorräder;44
+1992;Gösgen;SO;Klein-Motorräder;45
+1993;Gösgen;SO;Klein-Motorräder;46
+1994;Gösgen;SO;Klein-Motorräder;47
+1995;Gösgen;SO;Klein-Motorräder;48
+1996;Gösgen;SO;Klein-Motorräder;49
+1997;Gösgen;SO;Klein-Motorräder;49
+1998;Gösgen;SO;Klein-Motorräder;50
+1999;Gösgen;SO;Klein-Motorräder;51
+2000;Gösgen;SO;Klein-Motorräder;52
+2001;Gösgen;SO;Klein-Motorräder;51
+2002;Gösgen;SO;Klein-Motorräder;52
+2003;Gösgen;SO;Klein-Motorräder;51
+2004;Gösgen;SO;Klein-Motorräder;52
+2005;Gösgen;SO;Klein-Motorräder;53
+2006;Gösgen;SO;Klein-Motorräder;54
+2007;Gösgen;SO;Klein-Motorräder;55
+2008;Gösgen;SO;Klein-Motorräder;54
+2009;Gösgen;SO;Klein-Motorräder;56
+2010;Gösgen;SO;Klein-Motorräder;56
+2011;Gösgen;SO;Klein-Motorräder;57
+2012;Gösgen;SO;Klein-Motorräder;58
+2013;Gösgen;SO;Klein-Motorräder;59
+2014;Gösgen;SO;Klein-Motorräder;60
+2015;Gösgen;SO;Klein-Motorräder;60
+2016;Gösgen;SO;Klein-Motorräder;61
+2017;Gösgen;SO;Klein-Motorräder;62
+2018;Gösgen;SO;Klein-Motorräder;63
+2019;Gösgen;SO;Klein-Motorräder;64
+2020;Gösgen;SO;Klein-Motorräder;65
+2021;Gösgen;SO;Klein-Motorräder;66
+2022;Gösgen;SO;Klein-Motorräder;67
+2023;Gösgen;SO;Klein-Motorräder;68
+1990;Gösgen;SO;Gewerbe FZ;89
+1991;Gösgen;SO;Gewerbe FZ;91
+1992;Gösgen;SO;Gewerbe FZ;93
+1993;Gösgen;SO;Gewerbe FZ;96
+1994;Gösgen;SO;Gewerbe FZ;100
+1995;Gösgen;SO;Gewerbe FZ;102
+1996;Gösgen;SO;Gewerbe FZ;104
+1997;Gösgen;SO;Gewerbe FZ;106
+1998;Gösgen;SO;Gewerbe FZ;104
+1999;Gösgen;SO;Gewerbe FZ;105
+2000;Gösgen;SO;Gewerbe FZ;107
+2001;Gösgen;SO;Gewerbe FZ;110
+2002;Gösgen;SO;Gewerbe FZ;112
+2003;Gösgen;SO;Gewerbe FZ;115
+2004;Gösgen;SO;Gewerbe FZ;118
+2005;Gösgen;SO;Gewerbe FZ;121
+2006;Gösgen;SO;Gewerbe FZ;124
+2007;Gösgen;SO;Gewerbe FZ;122
+2008;Gösgen;SO;Gewerbe FZ;124
+2009;Gösgen;SO;Gewerbe FZ;126
+2010;Gösgen;SO;Gewerbe FZ;128
+2011;Gösgen;SO;Gewerbe FZ;130
+2012;Gösgen;SO;Gewerbe FZ;130
+2013;Gösgen;SO;Gewerbe FZ;132
+2014;Gösgen;SO;Gewerbe FZ;133
+2015;Gösgen;SO;Gewerbe FZ;135
+2016;Gösgen;SO;Gewerbe FZ;136
+2017;Gösgen;SO;Gewerbe FZ;139
+2018;Gösgen;SO;Gewerbe FZ;141
+2019;Gösgen;SO;Gewerbe FZ;145
+2020;Gösgen;SO;Gewerbe FZ;145
+2021;Gösgen;SO;Gewerbe FZ;147
+2022;Gösgen;SO;Gewerbe FZ;149
+2023;Gösgen;SO;Gewerbe FZ;151

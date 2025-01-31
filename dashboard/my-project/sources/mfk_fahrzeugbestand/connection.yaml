@@ -1,0 +1,5 @@
+# This file was automatically generated
+name: mfk_fahrzeugbestand
+type: duckdb
+options:
+  filename: ch.so.mfk.fahrzeugbestand.duckdb
