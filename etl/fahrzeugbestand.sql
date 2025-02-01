@@ -44,13 +44,13 @@ ORDER BY
     jahr, bezirk, typ
 ;
 
-COPY fahrzeugbestand_tmp TO '/Users/stefan/sources/p-afin_stats_teaser/data/ch.so.mfk.fahrzeugbestand_1990-2024.csv' (HEADER, DELIMITER ';');
+COPY fahrzeugbestand_tmp TO '/Users/stefan/sources/p-afin_stats_teaser/data/ch.so.mfk.fahrzeugbestand.csv' (HEADER, DELIMITER ';');
 
-COPY fahrzeugbestand_tmp TO '/Users/stefan/sources/p-afin_stats_teaser/data/ch.so.mfk.fahrzeugbestand_1990-2024.parquet' (FORMAT PARQUET);
+COPY fahrzeugbestand_tmp TO '/Users/stefan/sources/p-afin_stats_teaser/data/ch.so.mfk.fahrzeugbestand.parquet' (FORMAT PARQUET);
 
 INSTALL spatial;
 LOAD spatial;
-COPY fahrzeugbestand_tmp TO '/Users/stefan/sources/p-afin_stats_teaser/data/ch.so.mfk.fahrzeugbestand_1990-2024.xlsx' WITH (FORMAT GDAL, DRIVER 'xlsx');
+COPY fahrzeugbestand_tmp TO '/Users/stefan/sources/p-afin_stats_teaser/data/ch.so.mfk.fahrzeugbestand.xlsx' WITH (FORMAT GDAL, DRIVER 'xlsx');
 
 
 

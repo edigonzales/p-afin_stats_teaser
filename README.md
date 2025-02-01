@@ -6,6 +6,7 @@ Bemerkungen:
 
 - Whitespaces in Dateinamen
 - Wahrscheinlich aus Excel exportiert -> exotisches Encoding. Es gibt einen UTF-8-CSV-Export in Excel.
+- Arbeitslosenzahlen: Monate (wie program. greifbar?), Tausendertrennzeichen bei den Zahlen (also Formatierung im CSV)
 - Datentypen werden geraten
 - https://github.com/openZH/ogd-handbook/blob/main/publikationsleitlinien.md
 - https://github.com/openZH/ogd-handbook/blob/main/publikationsleitlinien/xls-zu-csv-konvertieren.md
@@ -20,7 +21,7 @@ Bemerkungen:
 ./duckdb ch.so.mfk.fahrzeugbestand.duckdb
 
 CREATE TABLE mfk_fahrzeugbestand AS
-    SELECT * FROM '/Users/stefan/sources/p-afin_stats_teaser/data/ch.so.mfk.fahrzeugbestand_1990-2024.parquet';
+    SELECT * FROM '/Users/stefan/sources/p-afin_stats_teaser/data/ch.so.mfk.fahrzeugbestand.parquet';
 ```
 
 

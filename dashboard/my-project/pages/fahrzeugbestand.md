@@ -2,65 +2,146 @@
 title: Fahrzeugbestand
 ---
 
-```sql fahrzeugbestand
-  SELECT 
-    *
-  FROM  
-    fahrzeugbestand
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+
+```sql fahrzeugbestand_grouped_by_year
+SELECT 
+	jahr,
+	sum(anzahl) AS total
+FROM 
+	mfk_fahrzeugbestand.fahrzeugbestand
+GROUP BY
+	jahr
 ```
 
-- Entwicklung total pro typ
-- Entwicklung pro Bezirk pro typ
-- ggf. Karte
+<BarChart
+    title='Gesamter Fahrzeugbestand' 
+    data={fahrzeugbestand_grouped_by_year}
+    x=jahr
+    y=total
+    yAxisTitle="Anzahl Fahrzeuge"
+    markers=true
+    xFmt='###0'
+    yMin=218000
+/>
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam
+
+```sql fahrzeugbestand_grouped_by_year_bezirk
+SELECT 
+	jahr,
+	bezirk,
+	sum(anzahl) AS total
+FROM 
+	mfk_fahrzeugbestand.fahrzeugbestand
+GROUP BY
+	jahr,
+	bezirk
+ORDER BY 
+	jahr,
+	bezirk
+```
+
+<BarChart
+    title='Fahrzeugbestand pro Bezirk' 
+    data={fahrzeugbestand_grouped_by_year_bezirk}
+    x=jahr
+    y=total
+    series=bezirk
+    yAxisTitle="Anzahl Fahrzeuge"
+    markers=true
+    xFmt='###0'
+/>
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam
+
+```sql fahrzeugbestand_typ
+SELECT 
+	typ
+FROM 
+	mfk_fahrzeugbestand.fahrzeugbestand
+GROUP BY
+	1
+ORDER BY 
+	typ
+```
+
+<Dropdown 
+  data={fahrzeugbestand_typ} 
+  name=typen
+  value=typ
+  title="Wählen Sie einen Typ"
+  noDefault=true
+/>
 
 
+```sql fahrzeugbestand_grouped_by_year_bezirk_typ
+SELECT 
+	jahr,
+	bezirk,
+	typ,
+	sum(anzahl) AS total
+FROM 
+	mfk_fahrzeugbestand.fahrzeugbestand
+WHERE 
+	typ = '${inputs.typen.value}'
+GROUP BY
+	jahr,
+	bezirk,
+	typ
+ORDER BY 
+	jahr,
+	bezirk,
+	typ
+```
 
+<LineChart
+    title='Fahrzeugbestand pro Bezirk und Typ' 
+    data={fahrzeugbestand_grouped_by_year_bezirk_typ}
+    x=jahr
+    y=total
+    series=bezirk
+    yAxisTitle="Anzahl Fahrzeuge"
+    markers=true
+    xFmt='###0'
+/>
 
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam
 
+```sql fahrzeugbestand_grouped_by_year_bezirk_2024
+SELECT 
+	jahr,
+	bezirk,
+	sum(anzahl) AS total
+FROM 
+	mfk_fahrzeugbestand.fahrzeugbestand
+WHERE 
+	jahr = '2024'
+GROUP BY
+	jahr,
+	bezirk
+ORDER BY 
+	jahr,
+	bezirk
+```
+
+<AreaMap 
+    data={fahrzeugbestand_grouped_by_year_bezirk_2024} 
+    areaCol=bezirk
+    geoJsonUrl='/agi_bezirksgrenzen_generalisiert.geojson'
+    geoId=bezirksname
+    value=total
+    legend=false
+    showTooltip=false
+    title='Fahrzeugbestand 2024'
+    attribution='Kanton Solothurn'
+/>
 
 
 <Details title='How to edit this page'>
 
   This page can be found in your project at `/pages/index.md`. Make a change to the markdown file and save it to see the change take effect in your browser.
 </Details>
-
-```sql categories
-  select
-      category
-  from needful_things.orders
-  group by category
-```
-
-<Dropdown data={categories} name=category value=category>
-    <DropdownOption value="%" valueLabel="All Categories"/>
-</Dropdown>
-
-<Dropdown name=year>
-    <DropdownOption value=% valueLabel="All Years"/>
-    <DropdownOption value=2019/>
-    <DropdownOption value=2020/>
-    <DropdownOption value=2021/>
-</Dropdown>
-
-```sql orders_by_category
-  select 
-      date_trunc('month', order_datetime) as month,
-      sum(sales) as sales_usd,
-      category
-  from needful_things.orders
-  where category like '${inputs.category.value}'
-  and date_part('year', order_datetime) like '${inputs.year.value}'
-  group by all
-  order by sales_usd desc
-```
-
-<BarChart
-    data={orders_by_category}
-    title="Sales by Month, {inputs.category.label}"
-    x=month
-    y=sales_usd
-    series=category
-/>
 
 ## What's Next?
 - [Connect your data sources](settings)
