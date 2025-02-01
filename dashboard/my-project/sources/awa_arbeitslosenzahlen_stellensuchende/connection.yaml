@@ -1,0 +1,5 @@
+# This file was automatically generated
+name: awa_arbeitslosenzahlen_stellensuchende
+type: duckdb
+options:
+  filename: ch.so.awa.arbeitslosenzahlen_stellensuchende.duckdb

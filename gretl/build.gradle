@@ -31,3 +31,11 @@ tasks.register('validateFahrzeugbestandCsv', CsvValidator) {
     valueDelimiter = null
 }
 
+tasks.register('validateArbeitslosenzahlenStellensuchendeCsv', CsvValidator) {
+    models = "SO_AWA_Arbeitslosenzahlen_Stellensuchende_20250201"
+    modeldir = "../models/"
+    firstLineIsHeader = true
+    dataFiles = ["../data/ch.so.awa.arbeitslosenzahlen_stellensuchende.csv"]
+    valueSeparator = ';'
+    valueDelimiter = null
+}
