@@ -24,7 +24,7 @@ INTO
     x=jahr
     y=anzahl
     series=kategorie
-    yAxisTitle="# Personen"
+    yAxisTitle="Personen"
     markers=true
     xFmt='###0'
 />
@@ -43,7 +43,7 @@ FROM
     data={umsatz}
     x=jahr
     y=anzahl_grenzmutationen
-    yAxisTitle="# Mutationen"
+    yAxisTitle="Mutationen"
     markers=true
     xFmt='###0'
 />
@@ -53,7 +53,7 @@ FROM
     data={umsatz}
     x=jahr
     y=anzahl_gebaeudemutationen
-    yAxisTitle="# Mutationen"
+    yAxisTitle="Mutationen"
     markers=true
     xFmt='###0'
 />
