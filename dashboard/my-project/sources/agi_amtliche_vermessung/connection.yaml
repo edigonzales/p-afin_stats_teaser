@@ -1,0 +1,5 @@
+# This file was automatically generated
+name: agi_amtliche_vermessung
+type: duckdb
+options:
+  filename: ch.so.agi_amtliche_vermessung.duckdb
